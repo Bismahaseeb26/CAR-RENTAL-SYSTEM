@@ -1,0 +1,22 @@
+carId: 452
+Brand: toyota
+Model: 2011
+Category: EconomyCar
+Horse Power: 1200
+Engine CC: 1500
+Rating: 1
+Rental fee: 1200.65
+Fuel Efficient: Yes
+Is Compact: Yes
+-----------------------
+carId: 611
+Brand: Corolla
+Model: 2011
+Category: EconomyCar
+Horse Power: 1200
+Engine CC: 1500
+Rating: 1
+Rental fee: 350
+Fuel Efficient: Yes
+Is Compact: Yes
+-----------------------

@@ -1,0 +1,6 @@
+Name: Abdul Wahid
+License ID: ABH983
+Category: Silver Driver
+Discount: 10
+Rewards Eligible: Yes
+Free Rides: 2
